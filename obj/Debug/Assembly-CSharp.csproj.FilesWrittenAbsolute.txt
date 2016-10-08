@@ -1,0 +1,17 @@
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/obj/Debug/Assembly-CSharp.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/UnityEngine.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/UnityEditor.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/Mono.Cecil.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/Unity.DataContract.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/thomas/Desktop/Unity Projects/COMP305-F2016-Platformer-A/Temp/bin/Debug/Mono.Cecil.Mdb.dll
